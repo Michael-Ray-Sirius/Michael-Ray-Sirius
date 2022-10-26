@@ -3,7 +3,7 @@
 ## Biography
 
 I am a second-year master student in Greenwich Lab of [School of Mathematics and Statistics](https://math.fzu.edu.cn/)
-at [Fuzhou University](https://www.fzu.edu.cn/), under the supervision of [Prof. Meiqing Wang](https://math.fzu.edu.cn/info/1102/1837.htm)
+at [Fuzhou University](https://yjsy.fzu.edu.cn/), under the supervision of [Prof. Meiqing Wang](https://math.fzu.edu.cn/info/1102/1837.htm)
 
 Before that, I received my B.S degree in [School of Mathematics and Statistics](https://math.fzu.edu.cn/) at [Fuzhou University](https://www.fzu.edu.cn/) from 2017 to 2021, majoring in Information and Computing Science.
 
