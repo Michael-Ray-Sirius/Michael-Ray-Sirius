@@ -24,6 +24,13 @@ Here are some repositories containing links primarily to conference publications
   - [AI Conference Deadlines](https://aideadlin.es/?sub=CV)
   - [CVF Open Access](https://openaccess.thecvf.com/menu)
   - [Conference Partner](https://www.myhuiban.com)
+  
+## Workshop
+  - [Mu Li](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744)
+  - [Harry Shum](https://space.bilibili.com/1706874133/video?tid=0&page=1&keyword=&order=pubdate)
+  - [CVMart](https://space.bilibili.com/85300886/video)
+  - [AI Time Debate](https://space.bilibili.com/503316308/video)
+  - [The Heart of Machine](https://space.bilibili.com/73414544/video?tid=0&page=2&keyword=&order=pubdate)
 
 ## Coding Resources
   - [Papers With Code](https://paperswithcode.com)
