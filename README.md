@@ -56,7 +56,7 @@ Here are some repositories containing links primarily to conference publications
   
 ## Academical Website
   - [ai-folio](https://github.com/alshedivat/al-folio)
-  - [academicpages](https://github.com/academicpages/academicpages.github.io)
+  - [academicpages]([https://github.com/academicpages/academicpages.github.io](https://academicpages.github.io/))
 
   
 
