@@ -19,6 +19,7 @@ Here are some repositories containing links primarily to conference publications
   - [Temporal Action Localization/Detction and related area(e.g. Temporal Action Proposal)](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization)
   - [Temporal Action Detection, Weakly Supervised/Semi-Supervised Temporal Action Detection, Temporal Action Proposal Generation](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation)
   - [Scene Graph](https://github.com/huoxingmeishi/Awesome-Scene-Graphs)
+  - [Fine-Grained Recognition](https://github.com/LionRoarRoar/Awesome-Fine-grained-Visual-Classification)
   
 ## Conference Resources
   - [AI Conference Deadlines](https://aideadlin.es/?sub=CV)
