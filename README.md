@@ -32,6 +32,8 @@ Here are some repositories containing links primarily to conference publications
   - [CVMart](https://space.bilibili.com/85300886/video)
   - [AI Time Debate](https://space.bilibili.com/503316308/video)
   - [The Heart of Machine](https://space.bilibili.com/73414544/video?tid=0&page=2&keyword=&order=pubdate)
+  - [Limin Wang](https://wanglimin.github.io/publication.html)
+  - [CVTEAM, Beihang](http://cvteam.buaa.edu.cn/papers.html)
 
 ## Coding Resources
   - [Papers With Code](https://paperswithcode.com)
